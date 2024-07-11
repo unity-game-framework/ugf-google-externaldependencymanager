@@ -1,7 +1,7 @@
 {
   "dependencies": {
     "com.ugf.google.externaldependencymanager": {
-      "version": "file:UGF.Google.ExternalDependencyManager",
+      "version": "file:com.ugf.google.externaldependencymanager",
       "depth": 0,
       "source": "embedded",
       "dependencies": {}
